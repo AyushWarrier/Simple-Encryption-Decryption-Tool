@@ -1,2 +1,8 @@
-# Simple-Encryption-Decryption-Tool
+# Simple-Encryption-Decryption-Tool (Caesar & Vignere Cipher)
+
+## About the Project:
 I made a python tool for encrypting/decrypting text using Caesar &amp; Vigenère Ciphers.
+
+## Features:
+- A Caesar Cipher encryption and decryption tool
+- A Vignere Cipher encryption and decryption tool
